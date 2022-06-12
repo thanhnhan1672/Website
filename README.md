@@ -1,13 +1,13 @@
-<h1> Đây là một project về cửa hàng bán thiết bị máy tính</h1>
-<h2>Đây là giao diện trang web</h2>
+# Đây là một project về cửa hàng bán thiết bị máy tính
+## Đây là giao diện trang web
 ![image](https://user-images.githubusercontent.com/72533372/173197866-bf7724fa-7cfb-494d-a899-871cb4400cbe.png)
-<h2>Các công nghệ sử dụng<h2>
+##Các công nghệ sử dụng
 1.Asp.net core MVC
 2.EF Core
 3.Bootstrap
 4.LinQ
 5.Blazor
-  <h2>Các tính năng trang web</h2>
+  ## Các tính năng trang web
 Thêm vào giỏ hàng và thanh toán
 ![image](https://user-images.githubusercontent.com/72533372/173197970-70c45347-beb5-43d5-af4b-d4b1b9bf3504.png)
 Hiển thị sản phẩm theo danh mục
