@@ -8,11 +8,11 @@
 4.LinQ
 5.Blazor
   ## Các tính năng trang web
-I.Thêm vào giỏ hàng và thanh toán
+Thêm vào giỏ hàng và thanh toán
 ![image](https://user-images.githubusercontent.com/72533372/173197970-70c45347-beb5-43d5-af4b-d4b1b9bf3504.png)
-II.Hiển thị sản phẩm theo danh mục
+Hiển thị sản phẩm theo danh mục
 ![image](https://user-images.githubusercontent.com/72533372/173198012-a23a5278-4e70-44f9-a90f-be1c6cb38bab.png)
-  ##Các chức năng ở Admin Panel
+  ## Các chức năng ở Admin Panel
 1.Các chức năng thêm , xóa , sửa:
 ![image](https://user-images.githubusercontent.com/72533372/173198064-70f1d581-642e-4764-aee8-5aced3693a61.png)
 2.Quản lí đơn hàng và giao hàng
