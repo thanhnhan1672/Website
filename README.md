@@ -1,7 +1,7 @@
 # Đây là một project về cửa hàng bán thiết bị máy tính
 ## Đây là giao diện trang web
 ![image](https://user-images.githubusercontent.com/72533372/173197866-bf7724fa-7cfb-494d-a899-871cb4400cbe.png)
-##Các công nghệ sử dụng
+## Các công nghệ sử dụng
 1.Asp.net core MVC
 2.EF Core
 3.Bootstrap
